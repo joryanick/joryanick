@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @joryanick
+- 👀 I’m interested in Electronics & IoT, 3D Design & 3D Printing, C/C++ 
+- 🌱 I’m currently re-learning Vipassana
+- 💞️ I’m looking to collaborate on projects that help people
+- 📫 How to reach me: I bailed from most social, send me an email
