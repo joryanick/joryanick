@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @joryanick
+- 👀 I’m interested in Electronics & IoT, 3D Design & 3D Printing, C/C++ 
+- 💞️ I’m looking to collaborate on projects that help people
+- 📫 Reach me via email, jory@goodprototyping.com
